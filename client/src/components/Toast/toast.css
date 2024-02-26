@@ -1,0 +1,19 @@
+#toast {
+  width: 110px;
+  height: 30px;
+
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+
+  color: white;
+  background: #30632e;
+
+  border-radius: 5px;
+
+  display: none;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 13px;
+}

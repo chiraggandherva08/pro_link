@@ -1,0 +1,25 @@
+#flw-btn {
+  background-color: rgb(250, 250, 250);
+  color: black;
+  border: none;
+  border-radius: 20px;
+
+  padding: 5px;
+  cursor: pointer;
+  outline: none;
+  width: 100%;
+  max-width: 300px;
+
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: none;
+
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+#flw-btn:hover {
+  background: #d5d5d5;
+}
